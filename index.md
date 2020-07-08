@@ -1,39 +1,19 @@
-## Welcome to GitHub Pages
+# Welcome to Will Newbegin's home page!
 
-## TEST CHANGE
+## About me
 
-You can use the [editor on GitHub](https://github.com/WillNewbegin/websiteWRN/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi all! My name is Will Newbegin and I'm a rising senior at Lehigh University from the Allentown, PA area. I study Science Writing and Environmental Studies with a double-minor in Data Science and Applied Mathematics. At Lehigh, I keep busy with extracirriculars such as the TRAC Fellow Writing Program, Greek Life, and working with Lehigh's Brown and White. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have been writing for the news for, say, 7-8 years now and have loved pretty much every second of it. Journalism has prodvided me the opportunity to write in a variety of mediums and for a variety of audiences. It's taken me courtside in basketball games and curbside during protests. My favorite report is always the next one.
 
-### Markdown
+In my spare time, I really enjoy reading, writing, riding my bike, hiking, and playing video games. I really like action, comedy and horror movies, and I obsess over music too -- I used to write a column for the Brown and White about music when I had a little bit more spare time. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Professionally, I'm really interested in the intersection between science, technology, society and politics. Not really sure where that'll take me, though graduate school seems like a fine option at this point (I don't imagine the job market looking too friendly next summer thanks to COVID-19). I also really enjoy learning about language and the way that humans learn language and how it serves as a window into the human mind. So when it comes to grad school, I guess I have some options :)
 
-```markdown
-Syntax highlighted code block
+Looking forward to meeting the rest of you! 
 
-# Header 1
-## Header 2
-### Header 3
+## Social Media
 
-- Bulleted
-- List
+- LinkedIn: https://www.linkedin.com/in/will-newbegin/
+- B&W Portfolio: https://thebrownandwhite.com/author/wrn221/
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WillNewbegin/websiteWRN/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
