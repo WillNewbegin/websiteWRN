@@ -1,5 +1,7 @@
 # Welcome to Will Newbegin's home page!
 
+![Will](https://thebrownandwhite.com/wp-content/uploads/2018/10/will-newbegin-web.jpg)
+
 ## About me
 
 Hi all! My name is Will Newbegin and I'm a rising senior at Lehigh University from the Allentown, PA area. I study Science Writing and Environmental Studies with a double-minor in Data Science and Applied Mathematics. At Lehigh, I keep busy with extracirriculars such as the TRAC Fellow Writing Program, Greek Life, and working with Lehigh's Brown and White. 
@@ -16,4 +18,3 @@ Looking forward to meeting the rest of you!
 
 - LinkedIn: https://www.linkedin.com/in/will-newbegin/
 - B&W Portfolio: https://thebrownandwhite.com/author/wrn221/
-
